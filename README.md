@@ -2,4 +2,4 @@
 
 ## Modelo de datos
 
-![image](https://user-images.githubusercontent.com/31392486/159035210-bc631aa1-ce81-4a00-a8e2-27302464af18.png)
+![image](https://user-images.githubusercontent.com/31392486/159036811-27871095-7def-4a56-8178-3fd58f118ef7.png)
